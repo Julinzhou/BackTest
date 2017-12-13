@@ -1,1 +1,9 @@
 # BackTest回测最新框架
+回测部分主要为BackTestingEngine ,取数据部分为Get_Backtest_Data.py文件
+Kline_file为K线文件夹，Strategy为策略文件夹，trading_record为回测数据文件夹，csv_data为回测数据文件夹
+
+
+To_Do:
+未来接入从本地csv文件回测的部分
+丰富Strategy里面的内容
+
